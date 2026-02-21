@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "いつか天使になって　あるいは青い鳥になって　アダムとイブになって　ありえないなら",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T19:27:45.442781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつか天使になって あるいは青い鳥になって アダムとイブになって ありえないなら",
+      "artist": "三月のパンタシア",
+      "has_synced": true,
+      "path": "select/01_いつか天使になって_あるいは青い鳥になって_アダムとイブになって_ありえないなら_三月のパンタシア.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつか天使になって　あるいは青い鳥になって　アダムとイブになって　ありえないなら",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/02_いつか天使になって_あるいは青い鳥になって_アダムとイブになって_ありえないなら_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつか天使になって　あるいは青い鳥になって　アダムとイブになって　ありえないなら",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/03_いつか天使になって_あるいは青い鳥になって_アダムとイブになって_ありえないなら_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつか天使になって あるいは青い鳥になって アダムとイブになって ありえないなら",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_いつか天使になって_あるいは青い鳥になって_アダムとイブになって_ありえないなら_三月のパンタシア.txt"
+    }
+  ]
+}
